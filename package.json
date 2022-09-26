@@ -1,7 +1,7 @@
 {
-  "name": "mattermost-mobile",
+  "name": "aloha-mobile",
   "version": "1.55.1",
-  "description": "Mattermost Mobile with React Native",
+  "description": "Aloha Mobile with React Native",
   "repository": "git@github.com:mattermost/mattermost-mobile.git",
   "author": "Mattermost, Inc.",
   "license": "Apache 2.0",
