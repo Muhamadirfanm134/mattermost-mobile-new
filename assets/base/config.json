@@ -1,5 +1,5 @@
 {
-    "DefaultServerUrl": "",
+    "DefaultServerUrl": "https://chat.idstar.group/",
     "TestServerUrl": "http://localhost:8065",
     "ShowErrorsList": false,
     "EELearnURL": "mattermost.com",
@@ -10,7 +10,7 @@
     "MobileNoticeURL": "https://github.com/mattermost/mattermost-mobile/blob/master/NOTICE.txt",
     "RudderApiKey": "",
 
-    "AutoSelectServerUrl": false,
+    "AutoSelectServerUrl": true,
     "CustomRequestHeaders": {},
     "ExperimentalNormalizeMarkdownLinks": false,
 
